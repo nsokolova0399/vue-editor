@@ -33,7 +33,6 @@
     "parserOptions": {
       "parser": "@babel/eslint-parser"
     }
-
   },
   "browserslist": [
     "> 1%",

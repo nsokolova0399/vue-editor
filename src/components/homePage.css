@@ -16,6 +16,7 @@
     font-family: Roboto, sans-serif;
     font-weight: 400;
     font-size: 15px;
+    flex-wrap: wrap;
 }
 .home__header button:not(:first-child):not(:last-child)   {
     margin-left: 12px;
