@@ -1,4 +1,5 @@
 # vue-editor
+[Демонстрация](https://wonderful-haupia-5b7b9a.netlify.app/)
 
 ## Project setup
 ```
